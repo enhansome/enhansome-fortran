@@ -1,0 +1,182 @@
+{
+  "items": [
+    {
+      "description": "Libraries for graphing, graphics, and GUIs",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "gtk-fortran",
+          "description": "a cross-platform library to build Graphical User Interfaces (GUI) using GTK+. Very useful when combined with the Glade RAD tool.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Fortran",
+            "last_commit": "2026-07-15T16:13:12Z",
+            "owner": "vmagnin",
+            "repo": "gtk-fortran",
+            "stars": 289
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VTKFortran",
+          "description": "Pure Fortran (2003+) library to write and read data conforming the VTK standard.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Fortran",
+            "last_commit": "2026-07-01T10:14:28Z",
+            "owner": "szaghi",
+            "repo": "VTKFortran",
+            "stars": 157
+          }
+        }
+      ],
+      "title": "Graphics Libraries"
+    },
+    {
+      "description": "Libraries for calculating and other mathematical operations.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "OpenBLAS",
+          "description": "one of the fastest open source BLAS libraries available. Almost as fast as Intel MKL.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-12T16:12:24Z",
+            "owner": "OpenMathLib",
+            "repo": "OpenBLAS",
+            "stars": 7554
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "netCDF",
+          "description": "a set of software libraries and self-describing, machine-independent data formats that support the creation, access, and sharing of array-oriented scientific data.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Fortran",
+            "last_commit": "2026-07-29T23:02:59Z",
+            "owner": "Unidata",
+            "repo": "netcdf-fortran",
+            "stars": 270
+          }
+        }
+      ],
+      "title": "Math Libs"
+    },
+    {
+      "description": "Libraries for JSON data manipulating with Fortran language.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "json-fortran",
+          "description": "A Fortran 2008 JSON API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Fortran",
+            "last_commit": "2026-06-11T11:25:28Z",
+            "owner": "jacobwilliams",
+            "repo": "json-fortran",
+            "stars": 381
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FSON",
+          "description": "Fortran 95 JSON Parser.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Fortran",
+            "last_commit": "2023-01-23T17:28:39Z",
+            "owner": "josephalevin",
+            "repo": "fson",
+            "stars": 62
+          }
+        }
+      ],
+      "title": "JSON Manipulation"
+    },
+    {
+      "description": "Libraries for parsing command-line and building user interfaces.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "FLAP",
+          "description": "Fortran command Line Arguments Parser for poor men. A KISS library for building easily nice Command Line Interfaces (CLI) for modern (2003+) Fortran projects.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Fortran",
+            "last_commit": "2026-07-01T10:13:42Z",
+            "owner": "szaghi",
+            "repo": "FLAP",
+            "stars": 171
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "options.f90",
+          "description": "Options & input processing for modern Fortran.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "FORTRAN",
+            "last_commit": "2015-03-22T23:43:29Z",
+            "owner": "cngilbreth",
+            "repo": "optionsf90",
+            "stars": 12
+          }
+        }
+      ],
+      "title": "Command-Line parsing"
+    },
+    {
+      "description": "Libraries for CFD computations",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "MFC",
+          "description": "Exascale multiphase compressible flow solver with GPU acceleration via OpenACC. 2025 Gordon Bell Prize Finalist.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Fortran",
+            "last_commit": "2026-08-12T13:07:41Z",
+            "owner": "MFlowCode",
+            "repo": "MFC",
+            "stars": 393
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OFF",
+          "description": "Open source Finite volume Fluid dynamics code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Fortran",
+            "last_commit": "2019-11-08T16:01:54Z",
+            "owner": "szaghi",
+            "repo": "OFF",
+            "stars": 150
+          }
+        }
+      ],
+      "title": "Computational Fluid Dynamics"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:07:34.111Z",
+    "original_repository": "rabbiabram/awesome-fortran",
+    "original_repository_sha": "e5d89392ca33c808a39a23ab230bfd2472331ea3",
+    "enhanced_repository": "enhansome/enhansome-fortran",
+    "enhanced_repository_description": null,
+    "title": "Awesome Fortran with stars"
+  }
+}
