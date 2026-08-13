@@ -48,7 +48,7 @@
             "last_commit": "2026-08-12T16:12:24Z",
             "owner": "OpenMathLib",
             "repo": "OpenBLAS",
-            "stars": 7554
+            "stars": 7553
           }
         },
         {
@@ -150,7 +150,7 @@
             "last_commit": "2026-08-12T13:07:41Z",
             "owner": "MFlowCode",
             "repo": "MFC",
-            "stars": 393
+            "stars": 394
           }
         },
         {
@@ -172,7 +172,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:07:34.111Z",
+    "last_updated": "2026-08-13T14:50:00.438Z",
     "original_repository": "rabbiabram/awesome-fortran",
     "original_repository_sha": "e5d89392ca33c808a39a23ab230bfd2472331ea3",
     "enhanced_repository": "enhansome/enhansome-fortran",
