@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1236609,
             "language": "Fortran",
             "last_commit": "2026-07-15T16:13:12Z",
             "owner": "vmagnin",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 4083996,
             "language": "Fortran",
             "last_commit": "2026-07-01T10:14:28Z",
             "owner": "szaghi",
@@ -44,11 +46,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1286805,
             "language": "C",
             "last_commit": "2026-08-18T14:05:14Z",
             "owner": "OpenMathLib",
             "repo": "OpenBLAS",
-            "stars": 7558
+            "stars": 7559
           }
         },
         {
@@ -58,6 +61,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 11934263,
             "language": "Fortran",
             "last_commit": "2026-07-29T23:02:59Z",
             "owner": "Unidata",
@@ -78,6 +82,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 16651246,
             "language": "Fortran",
             "last_commit": "2026-06-11T11:25:28Z",
             "owner": "jacobwilliams",
@@ -92,6 +97,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3644860,
             "language": "Fortran",
             "last_commit": "2023-01-23T17:28:39Z",
             "owner": "josephalevin",
@@ -112,6 +118,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 18562512,
             "language": "Fortran",
             "last_commit": "2026-07-01T10:13:42Z",
             "owner": "szaghi",
@@ -126,6 +133,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 5873356,
             "language": "FORTRAN",
             "last_commit": "2015-03-22T23:43:29Z",
             "owner": "cngilbreth",
@@ -146,8 +154,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 198475661,
             "language": "Fortran",
-            "last_commit": "2026-08-18T14:12:36Z",
+            "last_commit": "2026-08-19T02:39:07Z",
             "owner": "MFlowCode",
             "repo": "MFC",
             "stars": 410
@@ -160,6 +169,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 4224594,
             "language": "Fortran",
             "last_commit": "2019-11-08T16:01:54Z",
             "owner": "szaghi",
@@ -172,8 +182,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T14:21:32.342Z",
+    "last_updated": "2026-08-19T12:31:53.856Z",
     "original_repository": "rabbiabram/awesome-fortran",
+    "original_repository_id": 21888466,
     "original_repository_sha": "e5d89392ca33c808a39a23ab230bfd2472331ea3",
     "enhanced_repository": "enhansome/enhansome-fortran",
     "enhanced_repository_description": null,
