@@ -48,7 +48,7 @@
             "archived": false,
             "id": 1286805,
             "language": "C",
-            "last_commit": "2026-08-18T14:05:14Z",
+            "last_commit": "2026-08-19T17:15:43Z",
             "owner": "OpenMathLib",
             "repo": "OpenBLAS",
             "stars": 7559
@@ -156,7 +156,7 @@
             "archived": false,
             "id": 198475661,
             "language": "Fortran",
-            "last_commit": "2026-08-19T02:39:07Z",
+            "last_commit": "2026-08-20T13:45:55Z",
             "owner": "MFlowCode",
             "repo": "MFC",
             "stars": 410
@@ -182,7 +182,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T14:21:51.822Z",
+    "last_updated": "2026-08-20T14:24:00.527Z",
     "original_repository": "rabbiabram/awesome-fortran",
     "original_repository_id": 21888466,
     "original_repository_sha": "e5d89392ca33c808a39a23ab230bfd2472331ea3",
