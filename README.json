@@ -51,7 +51,7 @@
             "last_commit": "2026-08-22T10:10:59Z",
             "owner": "OpenMathLib",
             "repo": "OpenBLAS",
-            "stars": 7557
+            "stars": 7559
           }
         },
         {
@@ -109,6 +109,90 @@
       "title": "JSON Manipulation"
     },
     {
+      "description": "Libraries for XML data manipulating with Fortran language.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "fox",
+          "description": "Fortran XML library",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 41040,
+            "language": "Fortran",
+            "last_commit": "2022-02-08T06:13:59Z",
+            "owner": "andreww",
+            "repo": "fox",
+            "stars": 65
+          }
+        }
+      ],
+      "title": "XML Manipulation"
+    },
+    {
+      "description": "Libraries for date and time manipulation with Fortran language.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "datetime-fortran",
+          "description": "A Fortran 2003 date and time manipulation library, modeled after Python's datetime library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 10015743,
+            "language": "Fortran",
+            "last_commit": "2023-06-20T14:15:25Z",
+            "owner": "wavebitscientific",
+            "repo": "datetime-fortran",
+            "stars": 151
+          }
+        }
+      ],
+      "title": "Date and time manipulation"
+    },
+    {
+      "description": "Libraries for encoding and decoding data with Fortran language.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "BeFoR64",
+          "description": "Base64 encoding/decoding library for FoRtran poor men. A KISS library for base64 encoding/decoding for modern (2003+) Fortran projects.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 29924686,
+            "language": "Fortran",
+            "last_commit": "2026-07-01T10:13:16Z",
+            "owner": "szaghi",
+            "repo": "BeFoR64",
+            "stars": 22
+          }
+        }
+      ],
+      "title": "Encoding-Decoding"
+    },
+    {
+      "description": "Libraries for enabling codes portability.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "PENF",
+          "description": "Pure Fortran (2003+) library for ensuring codes portability.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 4086575,
+            "language": "Fortran",
+            "last_commit": "2026-07-01T10:13:59Z",
+            "owner": "szaghi",
+            "repo": "PENF",
+            "stars": 42
+          }
+        }
+      ],
+      "title": "Portability enabling"
+    },
+    {
       "description": "Libraries for parsing command-line and building user interfaces.",
       "items": [
         {
@@ -145,6 +229,90 @@
       "title": "Command-Line parsing"
     },
     {
+      "description": "Libraries for compiling and building Fortran projects.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "FoBiS",
+          "description": "Fortran Building System for poor men. A KISS tool for automatic building modern Fortran projects.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 17250474,
+            "language": "Python",
+            "last_commit": "2026-08-09T10:10:09Z",
+            "owner": "szaghi",
+            "repo": "FoBiS",
+            "stars": 144
+          }
+        }
+      ],
+      "title": "Compiling and building"
+    },
+    {
+      "description": "Libraries for conditional-compilation, macros for code simplification, and inclusion of additional source files, templating systems.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "PreForM",
+          "description": "Preprocessor for Fortran poor Men.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 22261930,
+            "language": "Python",
+            "last_commit": "2020-10-08T04:37:52Z",
+            "owner": "szaghi",
+            "repo": "PreForM",
+            "stars": 23
+          }
+        }
+      ],
+      "title": "Preprocessor"
+    },
+    {
+      "description": "Tools for formatting and style-checking Fortran source code.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ffmt",
+          "description": "Fast, configurable Fortran formatter with support for Fypp, Doxygen, and OpenACC/OpenMP directives. Written in Rust, installable via pip.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1186902991,
+            "language": "Rust",
+            "last_commit": "2026-07-14T22:35:54Z",
+            "owner": "sbryngelson",
+            "repo": "ffmt",
+            "stars": 6
+          }
+        }
+      ],
+      "title": "Formatting"
+    },
+    {
+      "description": "Libraries for building documentation.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "FORD",
+          "description": "An automatic documentation generator for modern Fortran programs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 161320372,
+            "language": "Python",
+            "last_commit": "2020-12-28T04:40:00Z",
+            "owner": "cmacmackin",
+            "repo": "ford",
+            "stars": 40
+          }
+        }
+      ],
+      "title": "Automatic documentation"
+    },
+    {
       "description": "Libraries for CFD computations",
       "items": [
         {
@@ -156,7 +324,7 @@
             "archived": false,
             "id": 198475661,
             "language": "Fortran",
-            "last_commit": "2026-08-23T03:27:14Z",
+            "last_commit": "2026-08-24T03:50:49Z",
             "owner": "MFlowCode",
             "repo": "MFC",
             "stars": 411
@@ -182,7 +350,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T14:12:58.359Z",
+    "last_updated": "2026-08-24T14:28:49.437Z",
     "original_repository": "rabbiabram/awesome-fortran",
     "original_repository_id": 21888466,
     "original_repository_sha": "e5d89392ca33c808a39a23ab230bfd2472331ea3",
