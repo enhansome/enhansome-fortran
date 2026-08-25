@@ -324,7 +324,7 @@
             "archived": false,
             "id": 198475661,
             "language": "Fortran",
-            "last_commit": "2026-08-24T03:50:49Z",
+            "last_commit": "2026-08-24T17:50:15Z",
             "owner": "MFlowCode",
             "repo": "MFC",
             "stars": 411
@@ -350,7 +350,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:48:56.906Z",
+    "last_updated": "2026-08-25T06:17:51.309Z",
     "original_repository": "rabbiabram/awesome-fortran",
     "original_repository_id": 21888466,
     "original_repository_sha": "e5d89392ca33c808a39a23ab230bfd2472331ea3",
