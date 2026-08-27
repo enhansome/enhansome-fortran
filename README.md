@@ -132,7 +132,7 @@ A curated list of awesome Fortran frameworks, libraries and software. Inspired b
 
 *Libraries for CFD computations*
 
-* [MFC](https://github.com/MFlowCode/MFC) ⭐ 412 | 🐛 109 | 🌐 Fortran | 📅 2026-08-27 - Exascale multiphase compressible flow solver with GPU acceleration via OpenACC. 2025 Gordon Bell Prize Finalist.
+* [MFC](https://github.com/MFlowCode/MFC) ⭐ 412 | 🐛 110 | 🌐 Fortran | 📅 2026-08-27 - Exascale multiphase compressible flow solver with GPU acceleration via OpenACC. 2025 Gordon Bell Prize Finalist.
 * [OFF](https://github.com/szaghi/OFF/tree/testing) ⭐ 150 | 🐛 5 | 🌐 Fortran | 📅 2019-11-08 - Open source Finite volume Fluid dynamics code.
 
 ## Docker
@@ -159,7 +159,7 @@ Various resources, such as books, websites and articles, for improving your Fort
 
 # Other Awesome Lists
 
-Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,628 | 🐛 62 | 🌐 Ruby | 📅 2024-06-02 list.
+Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,632 | 🐛 62 | 🌐 Ruby | 📅 2024-06-02 list.
 
 # Contributing
 
