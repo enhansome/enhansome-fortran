@@ -16,7 +16,8 @@
             "owner": "vmagnin",
             "repo": "gtk-fortran",
             "stars": 289
-          }
+          },
+          "first_seen": "2026-08-28T23:16:03.072Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "szaghi",
             "repo": "VTKFortran",
             "stars": 156
-          }
+          },
+          "first_seen": "2026-08-28T23:16:03.072Z"
         }
       ],
       "title": "Graphics Libraries"
@@ -52,7 +54,8 @@
             "owner": "OpenMathLib",
             "repo": "OpenBLAS",
             "stars": 7563
-          }
+          },
+          "first_seen": "2026-08-28T23:16:03.072Z"
         },
         {
           "node_type": "item",
@@ -67,7 +70,8 @@
             "owner": "Unidata",
             "repo": "netcdf-fortran",
             "stars": 270
-          }
+          },
+          "first_seen": "2026-08-28T23:16:03.072Z"
         }
       ],
       "title": "Math Libs"
@@ -87,8 +91,9 @@
             "last_commit": "2026-06-11T11:25:28Z",
             "owner": "jacobwilliams",
             "repo": "json-fortran",
-            "stars": 381
-          }
+            "stars": 382
+          },
+          "first_seen": "2026-08-28T23:16:03.072Z"
         },
         {
           "node_type": "item",
@@ -103,7 +108,8 @@
             "owner": "josephalevin",
             "repo": "fson",
             "stars": 61
-          }
+          },
+          "first_seen": "2026-08-28T23:16:03.072Z"
         }
       ],
       "title": "JSON Manipulation"
@@ -124,7 +130,8 @@
             "owner": "andreww",
             "repo": "fox",
             "stars": 65
-          }
+          },
+          "first_seen": "2026-08-28T23:16:03.072Z"
         }
       ],
       "title": "XML Manipulation"
@@ -145,7 +152,8 @@
             "owner": "wavebitscientific",
             "repo": "datetime-fortran",
             "stars": 151
-          }
+          },
+          "first_seen": "2026-08-28T23:16:03.072Z"
         }
       ],
       "title": "Date and time manipulation"
@@ -166,7 +174,8 @@
             "owner": "szaghi",
             "repo": "BeFoR64",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-28T23:16:03.072Z"
         }
       ],
       "title": "Encoding-Decoding"
@@ -187,7 +196,8 @@
             "owner": "szaghi",
             "repo": "PENF",
             "stars": 42
-          }
+          },
+          "first_seen": "2026-08-28T23:16:03.072Z"
         }
       ],
       "title": "Portability enabling"
@@ -208,7 +218,8 @@
             "owner": "szaghi",
             "repo": "FLAP",
             "stars": 171
-          }
+          },
+          "first_seen": "2026-08-28T23:16:03.072Z"
         },
         {
           "node_type": "item",
@@ -223,7 +234,8 @@
             "owner": "cngilbreth",
             "repo": "optionsf90",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T23:16:03.072Z"
         }
       ],
       "title": "Command-Line parsing"
@@ -244,7 +256,8 @@
             "owner": "szaghi",
             "repo": "FoBiS",
             "stars": 144
-          }
+          },
+          "first_seen": "2026-08-28T23:16:03.072Z"
         }
       ],
       "title": "Compiling and building"
@@ -265,7 +278,8 @@
             "owner": "szaghi",
             "repo": "PreForM",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-28T23:16:03.072Z"
         }
       ],
       "title": "Preprocessor"
@@ -286,7 +300,8 @@
             "owner": "sbryngelson",
             "repo": "ffmt",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T23:16:03.072Z"
         }
       ],
       "title": "Formatting"
@@ -307,7 +322,8 @@
             "owner": "cmacmackin",
             "repo": "ford",
             "stars": 40
-          }
+          },
+          "first_seen": "2026-08-28T23:16:03.072Z"
         }
       ],
       "title": "Automatic documentation"
@@ -324,11 +340,12 @@
             "archived": false,
             "id": 198475661,
             "language": "Fortran",
-            "last_commit": "2026-08-27T23:10:43Z",
+            "last_commit": "2026-08-28T17:33:45Z",
             "owner": "MFlowCode",
             "repo": "MFC",
             "stars": 412
-          }
+          },
+          "first_seen": "2026-08-28T23:16:03.072Z"
         },
         {
           "node_type": "item",
@@ -343,14 +360,15 @@
             "owner": "szaghi",
             "repo": "OFF",
             "stars": 150
-          }
+          },
+          "first_seen": "2026-08-28T23:16:03.072Z"
         }
       ],
       "title": "Computational Fluid Dynamics"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T23:19:04.714Z",
+    "last_updated": "2026-08-28T23:16:03.072Z",
     "original_repository_info": {
       "archived": false,
       "id": 21888466,
