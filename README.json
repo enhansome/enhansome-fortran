@@ -10,12 +10,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A GTK / Fortran binding, and its documentation (in the Wiki tab).",
+            "homepage": null,
             "id": 1236609,
             "language": "Fortran",
+            "license": "GPL-3.0",
             "last_commit": "2026-07-15T16:13:12Z",
+            "open_issues": 13,
             "owner": "vmagnin",
             "repo": "gtk-fortran",
-            "stars": 289
+            "stars": 289,
+            "topics": [
+              "bindings",
+              "cross-platform",
+              "fortran",
+              "fortran-package-manager",
+              "graphical-user-interface",
+              "graphics",
+              "gtk",
+              "gtk-fortran",
+              "gtk4",
+              "gui"
+            ]
           },
           "first_seen": "2026-08-28T23:16:03.072Z"
         },
@@ -26,12 +42,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "pure Fortran VTK (XML) API",
+            "homepage": null,
             "id": 4083996,
             "language": "Fortran",
+            "license": null,
             "last_commit": "2026-07-01T10:14:28Z",
+            "open_issues": 19,
             "owner": "szaghi",
             "repo": "VTKFortran",
-            "stars": 156
+            "stars": 156,
+            "topics": [
+              "fortran",
+              "oop",
+              "vtk"
+            ]
           },
           "first_seen": "2026-08-28T23:16:03.072Z"
         }
@@ -48,12 +73,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OpenBLAS is an optimized BLAS library based on GotoBLAS2 1.13 BSD version. ",
+            "homepage": "http://www.openblas.net",
             "id": 1286805,
             "language": "C",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-26T19:40:41Z",
+            "open_issues": 119,
             "owner": "OpenMathLib",
             "repo": "OpenBLAS",
-            "stars": 7563
+            "stars": 7564,
+            "topics": [
+              "blas",
+              "lapack",
+              "lapacke"
+            ]
           },
           "first_seen": "2026-08-28T23:16:03.072Z"
         },
@@ -64,12 +98,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official GitHub repository for netCDF-Fortran libraries, which depend on the netCDF C library.  Install the netCDF C library first. ",
+            "homepage": null,
             "id": 11934263,
             "language": "Fortran",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-29T23:02:59Z",
+            "open_issues": 124,
             "owner": "Unidata",
             "repo": "netcdf-fortran",
-            "stars": 270
+            "stars": 270,
+            "topics": [
+              "dataset",
+              "hacktoberfest",
+              "netcdf-fortran",
+              "netcdf-library",
+              "unidata"
+            ]
           },
           "first_seen": "2026-08-28T23:16:03.072Z"
         }
@@ -86,12 +131,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Modern Fortran JSON API",
+            "homepage": "https://jacobwilliams.github.io/json-fortran/",
             "id": 16651246,
             "language": "Fortran",
+            "license": "NOASSERTION",
             "last_commit": "2026-06-11T11:25:28Z",
+            "open_issues": 25,
             "owner": "jacobwilliams",
             "repo": "json-fortran",
-            "stars": 382
+            "stars": 382,
+            "topics": [
+              "fortran",
+              "fortran-package-manager",
+              "json"
+            ]
           },
           "first_seen": "2026-08-28T23:16:03.072Z"
         },
@@ -102,12 +156,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fortran 95 JSON Parser",
+            "homepage": null,
             "id": 3644860,
             "language": "Fortran",
+            "license": null,
             "last_commit": "2023-01-23T17:28:39Z",
+            "open_issues": 11,
             "owner": "josephalevin",
             "repo": "fson",
-            "stars": 61
+            "stars": 61,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:16:03.072Z"
         }
@@ -124,12 +183,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Fortran XML library",
+            "homepage": "https://andreww.github.io/fox/",
             "id": 41040,
             "language": "Fortran",
+            "license": "NOASSERTION",
             "last_commit": "2022-02-08T06:13:59Z",
+            "open_issues": 36,
             "owner": "andreww",
             "repo": "fox",
-            "stars": 65
+            "stars": 65,
+            "topics": [
+              "dom",
+              "fortran",
+              "sax-parser",
+              "xml",
+              "xml-parser",
+              "xml-serialization"
+            ]
           },
           "first_seen": "2026-08-28T23:16:03.072Z"
         }
@@ -146,12 +217,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Date and time manipulation for modern Fortran",
+            "homepage": null,
             "id": 10015743,
             "language": "Fortran",
+            "license": "MIT",
             "last_commit": "2023-06-20T14:15:25Z",
+            "open_issues": 11,
             "owner": "wavebitscientific",
             "repo": "datetime-fortran",
-            "stars": 151
+            "stars": 151,
+            "topics": [
+              "datetime",
+              "fortran",
+              "strftime",
+              "timedelta"
+            ]
           },
           "first_seen": "2026-08-28T23:16:03.072Z"
         }
@@ -168,12 +249,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "BeFoR64, Base64 encoding/decoding library for FoRtran poor men",
+            "homepage": null,
             "id": 29924686,
             "language": "Fortran",
+            "license": null,
             "last_commit": "2026-07-01T10:13:16Z",
+            "open_issues": 1,
             "owner": "szaghi",
             "repo": "BeFoR64",
-            "stars": 22
+            "stars": 22,
+            "topics": [
+              "base64",
+              "decoding",
+              "encoding",
+              "fortran",
+              "oop"
+            ]
           },
           "first_seen": "2026-08-28T23:16:03.072Z"
         }
@@ -190,12 +282,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Portability Environment for Fortran poor people",
+            "homepage": null,
             "id": 4086575,
             "language": "Fortran",
+            "license": null,
             "last_commit": "2026-07-01T10:13:59Z",
+            "open_issues": 3,
             "owner": "szaghi",
             "repo": "PENF",
-            "stars": 42
+            "stars": 42,
+            "topics": [
+              "codes-portability",
+              "fortran",
+              "precision"
+            ]
           },
           "first_seen": "2026-08-28T23:16:03.072Z"
         }
@@ -212,12 +313,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fortran command Line Arguments Parser for poor people",
+            "homepage": null,
             "id": 18562512,
             "language": "Fortran",
+            "license": null,
             "last_commit": "2026-07-01T10:13:42Z",
+            "open_issues": 21,
             "owner": "szaghi",
             "repo": "FLAP",
-            "stars": 171
+            "stars": 171,
+            "topics": [
+              "argparse",
+              "command-line",
+              "fortran",
+              "fortran-library",
+              "oop",
+              "parser"
+            ]
           },
           "first_seen": "2026-08-28T23:16:03.072Z"
         },
@@ -228,12 +341,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Options & input processing for modern Fortran",
+            "homepage": null,
             "id": 5873356,
             "language": "FORTRAN",
+            "license": null,
             "last_commit": "2015-03-22T23:43:29Z",
+            "open_issues": 2,
             "owner": "cngilbreth",
             "repo": "optionsf90",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:16:03.072Z"
         }
@@ -250,12 +368,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "FoBiS.py, Fortran projects Building System",
+            "homepage": null,
             "id": 17250474,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-08-09T10:10:09Z",
+            "open_issues": 5,
             "owner": "szaghi",
             "repo": "FoBiS",
-            "stars": 144
+            "stars": 144,
+            "topics": [
+              "automatic-dependency-generator",
+              "build-tool",
+              "cli",
+              "cmake",
+              "fortran",
+              "github-integration",
+              "makefile",
+              "oop"
+            ]
           },
           "first_seen": "2026-08-28T23:16:03.072Z"
         }
@@ -272,12 +404,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PreForM.py,  Preprocessor for Fortran poor Men",
+            "homepage": null,
             "id": 22261930,
             "language": "Python",
+            "license": null,
             "last_commit": "2020-10-08T04:37:52Z",
+            "open_issues": 7,
             "owner": "szaghi",
             "repo": "PreForM",
-            "stars": 23
+            "stars": 23,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:16:03.072Z"
         }
@@ -294,12 +431,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A fast Fortran formatter, written in Rust",
+            "homepage": "https://ffmt-fortran.readthedocs.io",
             "id": 1186902991,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-07-14T22:35:54Z",
+            "open_issues": 1,
             "owner": "sbryngelson",
             "repo": "ffmt",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "cli-tools",
+              "code-formatter",
+              "formatter",
+              "fortran",
+              "hpc",
+              "rust",
+              "rust-crate",
+              "scientific-computing"
+            ]
           },
           "first_seen": "2026-08-28T23:16:03.072Z"
         }
@@ -316,12 +467,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Automatically generates FORtran Documentation from comments within the code.",
+            "homepage": null,
             "id": 161320372,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2020-12-28T04:40:00Z",
+            "open_issues": 0,
             "owner": "cmacmackin",
             "repo": "ford",
-            "stars": 40
+            "stars": 40,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:16:03.072Z"
         }
@@ -338,12 +494,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Exascale multiphase flow solver — 2025 Gordon Bell Prize Finalist | 200T grid points on 43K+ GPUs",
+            "homepage": "https://mflowcode.github.io/",
             "id": 198475661,
             "language": "Fortran",
+            "license": "MIT",
             "last_commit": "2026-08-28T17:33:45Z",
+            "open_issues": 119,
             "owner": "MFlowCode",
             "repo": "MFC",
-            "stars": 412
+            "stars": 412,
+            "topics": [
+              "amd-gpu",
+              "cfd",
+              "computational-fluid-dynamics",
+              "cuda",
+              "exascale",
+              "fluid-dynamics",
+              "fortran",
+              "gpu",
+              "gpu-computing",
+              "hpc",
+              "mpi",
+              "multiphase",
+              "nvidia-gpu",
+              "openacc",
+              "openmp",
+              "parallel-computing",
+              "physics-simulation",
+              "rocm",
+              "scientific-computing",
+              "simulation"
+            ]
           },
           "first_seen": "2026-08-28T23:16:03.072Z"
         },
@@ -354,12 +536,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OFF, Open source Finite volume Fluid dynamics code",
+            "homepage": null,
             "id": 4224594,
             "language": "Fortran",
+            "license": null,
             "last_commit": "2019-11-08T16:01:54Z",
+            "open_issues": 5,
             "owner": "szaghi",
             "repo": "OFF",
-            "stars": 150
+            "stars": 150,
+            "topics": [
+              "cfd",
+              "finite-volume",
+              "fluid-dynamics",
+              "fortran",
+              "gas-dynamics",
+              "hpc",
+              "hydrodynamics",
+              "oop",
+              "riemann-solvers"
+            ]
           },
           "first_seen": "2026-08-28T23:16:03.072Z"
         }
@@ -368,15 +565,20 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T23:16:03.072Z",
+    "last_updated": "2026-08-29T04:45:57.821Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Awesome list of Fortran libs",
+      "homepage": null,
       "id": 21888466,
       "language": null,
+      "license": "MIT",
       "last_commit": "2026-07-02T15:12:44Z",
+      "open_issues": 2,
       "owner": "rabbiabram",
       "repo": "awesome-fortran",
-      "stars": 415
+      "stars": 415,
+      "topics": []
     },
     "original_repository_sha": "e5d89392ca33c808a39a23ab230bfd2472331ea3",
     "enhanced_repository": "enhansome/enhansome-fortran",
