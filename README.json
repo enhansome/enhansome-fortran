@@ -78,11 +78,11 @@
             "id": 1286805,
             "language": "C",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-08T14:39:35Z",
-            "open_issues": 114,
+            "last_commit": "2026-09-09T06:09:14Z",
+            "open_issues": 116,
             "owner": "OpenMathLib",
             "repo": "OpenBLAS",
-            "stars": 7579,
+            "stars": 7581,
             "topics": [
               "blas",
               "lapack",
@@ -565,7 +565,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T17:38:26.712Z",
+    "last_updated": "2026-09-09T17:23:54.791Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of Fortran libs",
