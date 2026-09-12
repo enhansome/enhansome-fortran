@@ -79,7 +79,7 @@
             "language": "C",
             "license": "BSD-3-Clause",
             "last_commit": "2026-09-11T13:53:11Z",
-            "open_issues": 114,
+            "open_issues": 116,
             "owner": "OpenMathLib",
             "repo": "OpenBLAS",
             "stars": 7582,
@@ -107,7 +107,7 @@
             "open_issues": 125,
             "owner": "Unidata",
             "repo": "netcdf-fortran",
-            "stars": 269,
+            "stars": 270,
             "topics": [
               "dataset",
               "hacktoberfest",
@@ -436,7 +436,7 @@
             "id": 1186902991,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-02T20:47:51Z",
+            "last_commit": "2026-09-12T02:27:24Z",
             "open_issues": 1,
             "owner": "sbryngelson",
             "repo": "ffmt",
@@ -499,8 +499,8 @@
             "id": 198475661,
             "language": "Fortran",
             "license": "MIT",
-            "last_commit": "2026-09-11T16:56:32Z",
-            "open_issues": 127,
+            "last_commit": "2026-09-12T16:26:02Z",
+            "open_issues": 137,
             "owner": "MFlowCode",
             "repo": "MFC",
             "stars": 418,
@@ -565,7 +565,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T17:23:58.008Z",
+    "last_updated": "2026-09-12T16:35:50.719Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of Fortran libs",
