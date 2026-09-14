@@ -1,6 +1,6 @@
 # Awesome Fortran with stars
 
-A curated list of awesome Fortran frameworks, libraries and software. Inspired by [awesome-swift](https://github.com/Wolg/awesome-swift) ⭐ 5,889 | 🐛 111 | 📅 2026-04-12 by @Wolg.
+A curated list of awesome Fortran frameworks, libraries and software. Inspired by [awesome-swift](https://github.com/Wolg/awesome-swift) ⭐ 5,890 | 🐛 111 | 📅 2026-04-12 by @Wolg.
 
 * [Awesome Fortran](#awesome-fortran)
   * [Functional Libraries](#functional-libraries)
@@ -28,14 +28,14 @@ A curated list of awesome Fortran frameworks, libraries and software. Inspired b
 
 ## Functional Libraries
 
-* [Functional Fortran](https://github.com/wavebitscientific/functional-fortran) ⭐ 437 | 🐛 4 | 🌐 Fortran | 📅 2023-02-13 - Functional programming for modern Fortran.
+* [Functional Fortran](https://github.com/wavebitscientific/functional-fortran) ⭐ 438 | 🐛 4 | 🌐 Fortran | 📅 2023-02-13 - Functional programming for modern Fortran.
 
 ## Graphics Libraries
 
 *Libraries for graphing, graphics, and GUIs*
 
 * [gtk-fortran](https://github.com/vmagnin/gtk-fortran/wiki) ⭐ 289 | 🐛 13 | 🌐 Fortran | 📅 2026-07-15 - a cross-platform library to build Graphical User Interfaces (GUI) using [GTK+](https://www.gtk.org/).  Very useful when combined with the [Glade](https://glade.gnome.org/) RAD tool.
-* [VTKFortran](https://github.com/szaghi/VTKFortran) ⭐ 157 | 🐛 19 | 🌐 Fortran | 📅 2026-07-01 - Pure Fortran (2003+) library to write and read data conforming the VTK standard.
+* [VTKFortran](https://github.com/szaghi/VTKFortran) ⭐ 157 | 🐛 20 | 🌐 Fortran | 📅 2026-09-13 - Pure Fortran (2003+) library to write and read data conforming the VTK standard.
 * [DISLIN](https://www.mps.mpg.de/dislin/) - a high-level graphing and user-interface library.
 * [f90gl](https://math.nist.gov/f90gl/) - public domain implementation of the official NIST Fortran 90 bindings for OpenGL.
 * [F03GL](http://www-stone.ch.cam.ac.uk/pub/f03gl/index.xhtml) - a Fortran 2003 interface to the OpenGL library, along with the GLU and GLUT toolkits.
@@ -45,7 +45,7 @@ A curated list of awesome Fortran frameworks, libraries and software. Inspired b
 
 *Libraries for calculating and other mathematical operations.*
 
-* [OpenBLAS](https://github.com/xianyi/OpenBLAS) ⭐ 7,581 | 🐛 118 | 🌐 C | 📅 2026-09-11 - one of the fastest open source BLAS libraries available.  Almost as fast as Intel MKL.
+* [OpenBLAS](https://github.com/xianyi/OpenBLAS) ⭐ 7,582 | 🐛 115 | 🌐 C | 📅 2026-09-13 - one of the fastest open source BLAS libraries available.  Almost as fast as Intel MKL.
 * [netCDF](https://github.com/Unidata/netcdf-fortran) ⭐ 270 | 🐛 125 | 🌐 Fortran | 📅 2026-07-29 - a set of software libraries and self-describing, machine-independent data formats that support the creation, access, and sharing of array-oriented scientific data.
 * [BLAS](http://www.netlib.org/blas/) - application programming interface standard for publishing libraries to perform basic linear algebra operations such as vector and matrix multiplication.
 * [CERNLIB](http://cernlib.web.cern.ch/cernlib/) - The CERN Program Library is a large collection of general purpose libraries and modules maintained and offered in both source and object code form on the CERN central computers
@@ -73,7 +73,7 @@ A curated list of awesome Fortran frameworks, libraries and software. Inspired b
 
 *Libraries for date and time manipulation with Fortran language.*
 
-* [datetime-fortran](https://github.com/wavebitscientific/datetime-fortran) ⭐ 151 | 🐛 11 | 🌐 Fortran | 📅 2023-06-20 - A Fortran 2003 date and time manipulation library, modeled after Python's datetime library.
+* [datetime-fortran](https://github.com/wavebitscientific/datetime-fortran) ⭐ 152 | 🐛 11 | 🌐 Fortran | 📅 2023-06-20 - A Fortran 2003 date and time manipulation library, modeled after Python's datetime library.
 
 ## Testing
 
@@ -132,7 +132,7 @@ A curated list of awesome Fortran frameworks, libraries and software. Inspired b
 
 *Libraries for CFD computations*
 
-* [MFC](https://github.com/MFlowCode/MFC) ⭐ 418 | 🐛 148 | 🌐 Fortran | 📅 2026-09-13 - Exascale multiphase compressible flow solver with GPU acceleration via OpenACC. 2025 Gordon Bell Prize Finalist.
+* [MFC](https://github.com/MFlowCode/MFC) ⭐ 418 | 🐛 141 | 🌐 Fortran | 📅 2026-09-14 - Exascale multiphase compressible flow solver with GPU acceleration via OpenACC. 2025 Gordon Bell Prize Finalist.
 * [OFF](https://github.com/szaghi/OFF/tree/testing) ⭐ 150 | 🐛 5 | 🌐 Fortran | 📅 2019-11-08 - Open source Finite volume Fluid dynamics code.
 
 ## Docker
@@ -159,7 +159,7 @@ Various resources, such as books, websites and articles, for improving your Fort
 
 # Other Awesome Lists
 
-Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,666 | 🐛 65 | 🌐 Ruby | 📅 2024-06-02 list.
+Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,669 | 🐛 65 | 🌐 Ruby | 📅 2024-06-02 list.
 
 # Contributing
 
@@ -167,4 +167,4 @@ Your contributions are always welcome! Please submit a pull request or create an
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-14._
