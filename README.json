@@ -499,8 +499,8 @@
             "id": 198475661,
             "language": "Fortran",
             "license": "MIT",
-            "last_commit": "2026-09-18T08:45:07Z",
-            "open_issues": 147,
+            "last_commit": "2026-09-19T15:09:42Z",
+            "open_issues": 151,
             "owner": "MFlowCode",
             "repo": "MFC",
             "stars": 421,
@@ -565,7 +565,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T17:20:53.851Z",
+    "last_updated": "2026-09-19T16:54:00.052Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of Fortran libs",
@@ -574,7 +574,7 @@
       "language": null,
       "license": "MIT",
       "last_commit": "2026-07-02T15:12:44Z",
-      "open_issues": 2,
+      "open_issues": 3,
       "owner": "rabbiabram",
       "repo": "awesome-fortran",
       "stars": 415,
