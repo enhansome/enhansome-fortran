@@ -503,7 +503,7 @@
             "open_issues": 149,
             "owner": "MFlowCode",
             "repo": "MFC",
-            "stars": 422,
+            "stars": 423,
             "topics": [
               "amd-gpu",
               "cfd",
@@ -565,7 +565,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T18:02:22.114Z",
+    "last_updated": "2026-09-24T18:02:04.600Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of Fortran libs",
