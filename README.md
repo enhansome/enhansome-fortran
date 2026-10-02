@@ -1,6 +1,6 @@
 # Awesome Fortran with stars
 
-A curated list of awesome Fortran frameworks, libraries and software. Inspired by [awesome-swift](https://github.com/Wolg/awesome-swift) ⭐ 5,891 | 🐛 111 | 📅 2026-04-12 by @Wolg.
+A curated list of awesome Fortran frameworks, libraries and software. Inspired by [awesome-swift](https://github.com/Wolg/awesome-swift) ⭐ 5,890 | 🐛 111 | 📅 2026-04-12 by @Wolg.
 
 * [Awesome Fortran](#awesome-fortran)
   * [Functional Libraries](#functional-libraries)
@@ -45,8 +45,8 @@ A curated list of awesome Fortran frameworks, libraries and software. Inspired b
 
 *Libraries for calculating and other mathematical operations.*
 
-* [OpenBLAS](https://github.com/xianyi/OpenBLAS) ⭐ 7,605 | 🐛 122 | 🌐 C | 📅 2026-10-01 - one of the fastest open source BLAS libraries available.  Almost as fast as Intel MKL.
-* [netCDF](https://github.com/Unidata/netcdf-fortran) ⭐ 270 | 🐛 124 | 🌐 Fortran | 📅 2026-09-21 - a set of software libraries and self-describing, machine-independent data formats that support the creation, access, and sharing of array-oriented scientific data.
+* [OpenBLAS](https://github.com/xianyi/OpenBLAS) ⭐ 7,607 | 🐛 121 | 🌐 C | 📅 2026-10-02 - one of the fastest open source BLAS libraries available.  Almost as fast as Intel MKL.
+* [netCDF](https://github.com/Unidata/netcdf-fortran) ⭐ 271 | 🐛 124 | 🌐 Fortran | 📅 2026-09-21 - a set of software libraries and self-describing, machine-independent data formats that support the creation, access, and sharing of array-oriented scientific data.
 * [BLAS](http://www.netlib.org/blas/) - application programming interface standard for publishing libraries to perform basic linear algebra operations such as vector and matrix multiplication.
 * [CERNLIB](http://cernlib.web.cern.ch/cernlib/) - The CERN Program Library is a large collection of general purpose libraries and modules maintained and offered in both source and object code form on the CERN central computers
 * [EISPACK](http://www.netlib.org/eispack/) - a software library for numerical computation of eigenvalues and eigenvectors of matrices, written in FORTRAN
@@ -88,19 +88,19 @@ A curated list of awesome Fortran frameworks, libraries and software. Inspired b
 
 *Libraries for encoding and decoding data with Fortran language.*
 
-* [BeFoR64](https://github.com/szaghi/BeFoR64) ⭐ 22 | 🐛 1 | 🌐 Fortran | 📅 2026-07-01 - Base64 encoding/decoding library for FoRtran poor men. A KISS library for base64 encoding/decoding for modern (2003+) Fortran projects.
+* [BeFoR64](https://github.com/szaghi/BeFoR64) ⭐ 22 | 🐛 1 | 🌐 Fortran | 📅 2026-10-02 - Base64 encoding/decoding library for FoRtran poor men. A KISS library for base64 encoding/decoding for modern (2003+) Fortran projects.
 
 ## Portability enabling
 
 *Libraries for enabling codes portability.*
 
-* [PENF](https://github.com/szaghi/PENF) ⭐ 43 | 🐛 3 | 🌐 Fortran | 📅 2026-07-01 - Pure Fortran (2003+) library for ensuring codes portability.
+* [PENF](https://github.com/szaghi/PENF) ⭐ 43 | 🐛 0 | 🌐 Fortran | 📅 2026-10-02 - Pure Fortran (2003+) library for ensuring codes portability.
 
 ## Command-Line parsing
 
 *Libraries for parsing command-line and building user interfaces.*
 
-* [FLAP](https://github.com/szaghi/FLAP) ⭐ 172 | 🐛 0 | 🌐 Fortran | 📅 2026-10-01 - Fortran command Line Arguments Parser for poor men. A KISS library for building easily nice Command Line Interfaces (CLI) for modern (2003+) Fortran projects.
+* [FLAP](https://github.com/szaghi/FLAP) ⭐ 172 | 🐛 0 | 🌐 Fortran | 📅 2026-10-02 - Fortran command Line Arguments Parser for poor men. A KISS library for building easily nice Command Line Interfaces (CLI) for modern (2003+) Fortran projects.
 * [options.f90](https://github.com/cngilbreth/optionsf90) ⭐ 12 | 🐛 2 | 🌐 FORTRAN | 📅 2015-03-22 - Options & input processing for modern Fortran.
 
 ## Compiling and building
@@ -159,7 +159,7 @@ Various resources, such as books, websites and articles, for improving your Fort
 
 # Other Awesome Lists
 
-Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,697 | 🐛 65 | 🌐 Ruby | 📅 2024-06-02 list.
+Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,696 | 🐛 65 | 🌐 Ruby | 📅 2024-06-02 list.
 
 # Contributing
 
@@ -167,4 +167,4 @@ Your contributions are always welcome! Please submit a pull request or create an
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
