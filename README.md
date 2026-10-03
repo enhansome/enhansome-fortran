@@ -45,7 +45,7 @@ A curated list of awesome Fortran frameworks, libraries and software. Inspired b
 
 *Libraries for calculating and other mathematical operations.*
 
-* [OpenBLAS](https://github.com/xianyi/OpenBLAS) ⭐ 7,607 | 🐛 121 | 🌐 C | 📅 2026-10-02 - one of the fastest open source BLAS libraries available.  Almost as fast as Intel MKL.
+* [OpenBLAS](https://github.com/xianyi/OpenBLAS) ⭐ 7,607 | 🐛 120 | 🌐 C | 📅 2026-10-03 - one of the fastest open source BLAS libraries available.  Almost as fast as Intel MKL.
 * [netCDF](https://github.com/Unidata/netcdf-fortran) ⭐ 271 | 🐛 124 | 🌐 Fortran | 📅 2026-09-21 - a set of software libraries and self-describing, machine-independent data formats that support the creation, access, and sharing of array-oriented scientific data.
 * [BLAS](http://www.netlib.org/blas/) - application programming interface standard for publishing libraries to perform basic linear algebra operations such as vector and matrix multiplication.
 * [CERNLIB](http://cernlib.web.cern.ch/cernlib/) - The CERN Program Library is a large collection of general purpose libraries and modules maintained and offered in both source and object code form on the CERN central computers
@@ -88,26 +88,26 @@ A curated list of awesome Fortran frameworks, libraries and software. Inspired b
 
 *Libraries for encoding and decoding data with Fortran language.*
 
-* [BeFoR64](https://github.com/szaghi/BeFoR64) ⭐ 22 | 🐛 1 | 🌐 Fortran | 📅 2026-10-02 - Base64 encoding/decoding library for FoRtran poor men. A KISS library for base64 encoding/decoding for modern (2003+) Fortran projects.
+* [BeFoR64](https://github.com/szaghi/BeFoR64) ⭐ 22 | 🐛 1 | 🌐 Fortran | 📅 2026-10-03 - Base64 encoding/decoding library for FoRtran poor men. A KISS library for base64 encoding/decoding for modern (2003+) Fortran projects.
 
 ## Portability enabling
 
 *Libraries for enabling codes portability.*
 
-* [PENF](https://github.com/szaghi/PENF) ⭐ 43 | 🐛 0 | 🌐 Fortran | 📅 2026-10-02 - Pure Fortran (2003+) library for ensuring codes portability.
+* [PENF](https://github.com/szaghi/PENF) ⭐ 43 | 🐛 0 | 🌐 Fortran | 📅 2026-10-03 - Pure Fortran (2003+) library for ensuring codes portability.
 
 ## Command-Line parsing
 
 *Libraries for parsing command-line and building user interfaces.*
 
-* [FLAP](https://github.com/szaghi/FLAP) ⭐ 172 | 🐛 0 | 🌐 Fortran | 📅 2026-10-02 - Fortran command Line Arguments Parser for poor men. A KISS library for building easily nice Command Line Interfaces (CLI) for modern (2003+) Fortran projects.
+* [FLAP](https://github.com/szaghi/FLAP) ⭐ 174 | 🐛 0 | 🌐 Fortran | 📅 2026-10-03 - Fortran command Line Arguments Parser for poor men. A KISS library for building easily nice Command Line Interfaces (CLI) for modern (2003+) Fortran projects.
 * [options.f90](https://github.com/cngilbreth/optionsf90) ⭐ 12 | 🐛 2 | 🌐 FORTRAN | 📅 2015-03-22 - Options & input processing for modern Fortran.
 
 ## Compiling and building
 
 *Libraries for compiling and building Fortran projects.*
 
-* [FoBiS](https://github.com/szaghi/FoBiS) ⭐ 144 | 🐛 0 | 🌐 Python | 📅 2026-10-02 - Fortran Building System for poor men. A KISS tool for automatic building modern Fortran projects.
+* [FoBiS](https://github.com/szaghi/FoBiS) ⭐ 144 | 🐛 0 | 🌐 Python | 📅 2026-10-03 - Fortran Building System for poor men. A KISS tool for automatic building modern Fortran projects.
 
 ## Preprocessor
 
@@ -132,7 +132,7 @@ A curated list of awesome Fortran frameworks, libraries and software. Inspired b
 
 *Libraries for CFD computations*
 
-* [MFC](https://github.com/MFlowCode/MFC) ⭐ 426 | 🐛 150 | 🌐 Fortran | 📅 2026-10-01 - Exascale multiphase compressible flow solver with GPU acceleration via OpenACC. 2025 Gordon Bell Prize Finalist.
+* [MFC](https://github.com/MFlowCode/MFC) ⭐ 426 | 🐛 151 | 🌐 Fortran | 📅 2026-10-03 - Exascale multiphase compressible flow solver with GPU acceleration via OpenACC. 2025 Gordon Bell Prize Finalist.
 * [OFF](https://github.com/szaghi/OFF/tree/testing) ⭐ 150 | 🐛 5 | 🌐 Fortran | 📅 2019-11-08 - Open source Finite volume Fluid dynamics code.
 
 ## Docker
@@ -159,7 +159,7 @@ Various resources, such as books, websites and articles, for improving your Fort
 
 # Other Awesome Lists
 
-Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,696 | 🐛 65 | 🌐 Ruby | 📅 2024-06-02 list.
+Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,695 | 🐛 65 | 🌐 Ruby | 📅 2024-06-02 list.
 
 # Contributing
 
