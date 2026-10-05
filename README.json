@@ -78,11 +78,11 @@
             "id": 1286805,
             "language": "C",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-03T08:49:40Z",
-            "open_issues": 120,
+            "last_commit": "2026-10-05T19:48:58Z",
+            "open_issues": 123,
             "owner": "OpenMathLib",
             "repo": "OpenBLAS",
-            "stars": 7607,
+            "stars": 7608,
             "topics": [
               "blas",
               "lapack",
@@ -140,7 +140,7 @@
             "open_issues": 26,
             "owner": "jacobwilliams",
             "repo": "json-fortran",
-            "stars": 383,
+            "stars": 384,
             "topics": [
               "fortran",
               "fortran-package-manager",
@@ -322,7 +322,7 @@
             "open_issues": 0,
             "owner": "szaghi",
             "repo": "FLAP",
-            "stars": 174,
+            "stars": 175,
             "topics": [
               "argparse",
               "command-line",
@@ -373,7 +373,7 @@
             "id": 17250474,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-10-04T10:41:31Z",
+            "last_commit": "2026-10-05T12:21:20Z",
             "open_issues": 0,
             "owner": "szaghi",
             "repo": "FoBiS",
@@ -499,11 +499,11 @@
             "id": 198475661,
             "language": "Fortran",
             "license": "MIT",
-            "last_commit": "2026-10-04T02:45:30Z",
-            "open_issues": 149,
+            "last_commit": "2026-10-05T16:18:44Z",
+            "open_issues": 141,
             "owner": "MFlowCode",
             "repo": "MFC",
-            "stars": 426,
+            "stars": 427,
             "topics": [
               "amd-gpu",
               "cfd",
@@ -565,7 +565,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T17:54:09.394Z",
+    "last_updated": "2026-10-05T21:33:11.008Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of Fortran libs",
