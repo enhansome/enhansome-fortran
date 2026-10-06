@@ -45,7 +45,7 @@ A curated list of awesome Fortran frameworks, libraries and software. Inspired b
 
 *Libraries for calculating and other mathematical operations.*
 
-* [OpenBLAS](https://github.com/xianyi/OpenBLAS) ⭐ 7,608 | 🐛 123 | 🌐 C | 📅 2026-10-05 - one of the fastest open source BLAS libraries available.  Almost as fast as Intel MKL.
+* [OpenBLAS](https://github.com/xianyi/OpenBLAS) ⭐ 7,609 | 🐛 123 | 🌐 C | 📅 2026-10-05 - one of the fastest open source BLAS libraries available.  Almost as fast as Intel MKL.
 * [netCDF](https://github.com/Unidata/netcdf-fortran) ⭐ 271 | 🐛 124 | 🌐 Fortran | 📅 2026-09-21 - a set of software libraries and self-describing, machine-independent data formats that support the creation, access, and sharing of array-oriented scientific data.
 * [BLAS](http://www.netlib.org/blas/) - application programming interface standard for publishing libraries to perform basic linear algebra operations such as vector and matrix multiplication.
 * [CERNLIB](http://cernlib.web.cern.ch/cernlib/) - The CERN Program Library is a large collection of general purpose libraries and modules maintained and offered in both source and object code form on the CERN central computers
@@ -107,7 +107,7 @@ A curated list of awesome Fortran frameworks, libraries and software. Inspired b
 
 *Libraries for compiling and building Fortran projects.*
 
-* [FoBiS](https://github.com/szaghi/FoBiS) ⭐ 144 | 🐛 0 | 🌐 Python | 📅 2026-10-05 - Fortran Building System for poor men. A KISS tool for automatic building modern Fortran projects.
+* [FoBiS](https://github.com/szaghi/FoBiS) ⭐ 144 | 🐛 0 | 🌐 Python | 📅 2026-10-06 - Fortran Building System for poor men. A KISS tool for automatic building modern Fortran projects.
 
 ## Preprocessor
 
@@ -120,7 +120,7 @@ A curated list of awesome Fortran frameworks, libraries and software. Inspired b
 
 *Tools for formatting and style-checking Fortran source code.*
 
-* [ffmt](https://github.com/sbryngelson/ffmt) ⭐ 7 | 🐛 0 | 🌐 Rust | 📅 2026-09-16 - Fast, configurable Fortran formatter with support for Fypp, Doxygen, and OpenACC/OpenMP directives. Written in Rust, installable via pip.
+* [ffmt](https://github.com/sbryngelson/ffmt) ⭐ 7 | 🐛 1 | 🌐 Rust | 📅 2026-09-16 - Fast, configurable Fortran formatter with support for Fypp, Doxygen, and OpenACC/OpenMP directives. Written in Rust, installable via pip.
 
 ## Automatic documentation
 
@@ -159,7 +159,7 @@ Various resources, such as books, websites and articles, for improving your Fort
 
 # Other Awesome Lists
 
-Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,702 | 🐛 65 | 🌐 Ruby | 📅 2024-06-02 list.
+Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,705 | 🐛 65 | 🌐 Ruby | 📅 2024-06-02 list.
 
 # Contributing
 
@@ -167,4 +167,4 @@ Your contributions are always welcome! Please submit a pull request or create an
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._

@@ -82,7 +82,7 @@
             "open_issues": 123,
             "owner": "OpenMathLib",
             "repo": "OpenBLAS",
-            "stars": 7608,
+            "stars": 7609,
             "topics": [
               "blas",
               "lapack",
@@ -373,7 +373,7 @@
             "id": 17250474,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-10-05T12:21:20Z",
+            "last_commit": "2026-10-06T07:07:15Z",
             "open_issues": 0,
             "owner": "szaghi",
             "repo": "FoBiS",
@@ -437,7 +437,7 @@
             "language": "Rust",
             "license": "MIT",
             "last_commit": "2026-09-16T05:05:28Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "sbryngelson",
             "repo": "ffmt",
             "stars": 7,
@@ -565,7 +565,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T21:33:11.008Z",
+    "last_updated": "2026-10-06T10:22:47.407Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of Fortran libs",
