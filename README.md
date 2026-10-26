@@ -1,6 +1,6 @@
 # Awesome Fortran with stars
 
-A curated list of awesome Fortran frameworks, libraries and software. Inspired by [awesome-swift](https://github.com/Wolg/awesome-swift) ⭐ 5,895 | 🐛 113 | 📅 2026-04-12 by @Wolg.
+A curated list of awesome Fortran frameworks, libraries and software. Inspired by [awesome-swift](https://github.com/Wolg/awesome-swift) ⭐ 5,897 | 🐛 114 | 📅 2026-04-12 by @Wolg.
 
 * [Awesome Fortran](#awesome-fortran)
   * [Functional Libraries](#functional-libraries)
@@ -45,7 +45,7 @@ A curated list of awesome Fortran frameworks, libraries and software. Inspired b
 
 *Libraries for calculating and other mathematical operations.*
 
-* [OpenBLAS](https://github.com/xianyi/OpenBLAS) ⭐ 7,652 | 🐛 146 | 🌐 C | 📅 2026-10-25 - one of the fastest open source BLAS libraries available.  Almost as fast as Intel MKL.
+* [OpenBLAS](https://github.com/xianyi/OpenBLAS) ⭐ 7,651 | 🐛 152 | 🌐 C | 📅 2026-10-26 - one of the fastest open source BLAS libraries available.  Almost as fast as Intel MKL.
 * [netCDF](https://github.com/Unidata/netcdf-fortran) ⭐ 271 | 🐛 124 | 🌐 Fortran | 📅 2026-09-21 - a set of software libraries and self-describing, machine-independent data formats that support the creation, access, and sharing of array-oriented scientific data.
 * [BLAS](http://www.netlib.org/blas/) - application programming interface standard for publishing libraries to perform basic linear algebra operations such as vector and matrix multiplication.
 * [CERNLIB](http://cernlib.web.cern.ch/cernlib/) - The CERN Program Library is a large collection of general purpose libraries and modules maintained and offered in both source and object code form on the CERN central computers
@@ -107,7 +107,7 @@ A curated list of awesome Fortran frameworks, libraries and software. Inspired b
 
 *Libraries for compiling and building Fortran projects.*
 
-* [FoBiS](https://github.com/szaghi/FoBiS) ⭐ 144 | 🐛 2 | 🌐 Python | 📅 2026-10-19 - Fortran Building System for poor men. A KISS tool for automatic building modern Fortran projects.
+* [FoBiS](https://github.com/szaghi/FoBiS) ⭐ 144 | 🐛 2 | 🌐 Python | 📅 2026-10-26 - Fortran Building System for poor men. A KISS tool for automatic building modern Fortran projects.
 
 ## Preprocessor
 
@@ -132,7 +132,7 @@ A curated list of awesome Fortran frameworks, libraries and software. Inspired b
 
 *Libraries for CFD computations*
 
-* [MFC](https://github.com/MFlowCode/MFC) ⭐ 435 | 🐛 195 | 🌐 Fortran | 📅 2026-10-25 - Exascale multiphase compressible flow solver with GPU acceleration via OpenACC. 2025 Gordon Bell Prize Finalist.
+* [MFC](https://github.com/MFlowCode/MFC) ⭐ 436 | 🐛 194 | 🌐 Fortran | 📅 2026-10-26 - Exascale multiphase compressible flow solver with GPU acceleration via OpenACC. 2025 Gordon Bell Prize Finalist.
 * [OFF](https://github.com/szaghi/OFF/tree/testing) ⭐ 150 | 🐛 5 | 🌐 Fortran | 📅 2019-11-08 - Open source Finite volume Fluid dynamics code.
 
 ## Docker
@@ -167,4 +167,4 @@ Your contributions are always welcome! Please submit a pull request or create an
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-26._
