@@ -1,6 +1,6 @@
 # Awesome Fortran with stars
 
-A curated list of awesome Fortran frameworks, libraries and software. Inspired by [awesome-swift](https://github.com/Wolg/awesome-swift) ⭐ 5,897 | 🐛 114 | 📅 2026-04-12 by @Wolg.
+A curated list of awesome Fortran frameworks, libraries and software. Inspired by [awesome-swift](https://github.com/Wolg/awesome-swift) ⭐ 5,898 | 🐛 115 | 📅 2026-04-12 by @Wolg.
 
 * [Awesome Fortran](#awesome-fortran)
   * [Functional Libraries](#functional-libraries)
@@ -28,7 +28,7 @@ A curated list of awesome Fortran frameworks, libraries and software. Inspired b
 
 ## Functional Libraries
 
-* [Functional Fortran](https://github.com/wavebitscientific/functional-fortran) ⭐ 438 | 🐛 4 | 🌐 Fortran | 📅 2023-02-13 - Functional programming for modern Fortran.
+* [Functional Fortran](https://github.com/wavebitscientific/functional-fortran) ⭐ 439 | 🐛 4 | 🌐 Fortran | 📅 2023-02-13 - Functional programming for modern Fortran.
 
 ## Graphics Libraries
 
@@ -59,7 +59,7 @@ A curated list of awesome Fortran frameworks, libraries and software. Inspired b
 
 *Libraries for JSON data manipulating with Fortran language.*
 
-* [json-fortran](https://github.com/jacobwilliams/json-fortran) ⭐ 384 | 🐛 27 | 🌐 Fortran | 📅 2026-06-11 - A Fortran 2008 JSON API.
+* [json-fortran](https://github.com/jacobwilliams/json-fortran) ⭐ 384 | 🐛 26 | 🌐 Fortran | 📅 2026-11-01 - A Fortran 2008 JSON API.
 * [FSON](https://github.com/josephalevin/fson) ⭐ 61 | 🐛 11 | 🌐 Fortran | 📅 2023-01-23 - Fortran 95 JSON Parser.
 
 ## XML Manipulation
@@ -107,7 +107,7 @@ A curated list of awesome Fortran frameworks, libraries and software. Inspired b
 
 *Libraries for compiling and building Fortran projects.*
 
-* [FoBiS](https://github.com/szaghi/FoBiS) ⭐ 144 | 🐛 2 | 🌐 Python | 📅 2026-10-31 - Fortran Building System for poor men. A KISS tool for automatic building modern Fortran projects.
+* [FoBiS](https://github.com/szaghi/FoBiS) ⭐ 145 | 🐛 2 | 🌐 Python | 📅 2026-10-31 - Fortran Building System for poor men. A KISS tool for automatic building modern Fortran projects.
 
 ## Preprocessor
 
@@ -132,7 +132,7 @@ A curated list of awesome Fortran frameworks, libraries and software. Inspired b
 
 *Libraries for CFD computations*
 
-* [MFC](https://github.com/MFlowCode/MFC) ⭐ 438 | 🐛 194 | 🌐 Fortran | 📅 2026-10-29 - Exascale multiphase compressible flow solver with GPU acceleration via OpenACC. 2025 Gordon Bell Prize Finalist.
+* [MFC](https://github.com/MFlowCode/MFC) ⭐ 438 | 🐛 193 | 🌐 Fortran | 📅 2026-10-31 - Exascale multiphase compressible flow solver with GPU acceleration via OpenACC. 2025 Gordon Bell Prize Finalist.
 * [OFF](https://github.com/szaghi/OFF/tree/testing) ⭐ 150 | 🐛 5 | 🌐 Fortran | 📅 2019-11-08 - Open source Finite volume Fluid dynamics code.
 
 ## Docker
@@ -159,7 +159,7 @@ Various resources, such as books, websites and articles, for improving your Fort
 
 # Other Awesome Lists
 
-Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,760 | 🐛 65 | 🌐 Ruby | 📅 2024-06-02 list.
+Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,762 | 🐛 65 | 🌐 Ruby | 📅 2024-06-02 list.
 
 # Contributing
 
@@ -167,4 +167,4 @@ Your contributions are always welcome! Please submit a pull request or create an
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._

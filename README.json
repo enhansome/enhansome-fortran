@@ -136,8 +136,8 @@
             "id": 16651246,
             "language": "Fortran",
             "license": "NOASSERTION",
-            "last_commit": "2026-06-11T11:25:28Z",
-            "open_issues": 27,
+            "last_commit": "2026-11-01T15:24:31Z",
+            "open_issues": 26,
             "owner": "jacobwilliams",
             "repo": "json-fortran",
             "stars": 384,
@@ -377,7 +377,7 @@
             "open_issues": 2,
             "owner": "szaghi",
             "repo": "FoBiS",
-            "stars": 144,
+            "stars": 145,
             "topics": [
               "automatic-dependency-generator",
               "build-tool",
@@ -499,8 +499,8 @@
             "id": 198475661,
             "language": "Fortran",
             "license": "MIT",
-            "last_commit": "2026-10-29T23:55:30Z",
-            "open_issues": 194,
+            "last_commit": "2026-10-31T23:14:21Z",
+            "open_issues": 193,
             "owner": "MFlowCode",
             "repo": "MFC",
             "stars": 438,
@@ -565,7 +565,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T18:00:47.992Z",
+    "last_updated": "2026-11-01T18:39:27.762Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of Fortran libs",
