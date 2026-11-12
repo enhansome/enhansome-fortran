@@ -35,7 +35,7 @@ A curated list of awesome Fortran frameworks, libraries and software. Inspired b
 *Libraries for graphing, graphics, and GUIs*
 
 * [gtk-fortran](https://github.com/vmagnin/gtk-fortran/wiki) ⭐ 289 | 🐛 11 | 🌐 Fortran | 📅 2026-11-07 - a cross-platform library to build Graphical User Interfaces (GUI) using [GTK+](https://www.gtk.org/).  Very useful when combined with the [Glade](https://glade.gnome.org/) RAD tool.
-* [VTKFortran](https://github.com/szaghi/VTKFortran) ⭐ 160 | 🐛 15 | 🌐 Fortran | 📅 2026-11-11 - Pure Fortran (2003+) library to write and read data conforming the VTK standard.
+* [VTKFortran](https://github.com/szaghi/VTKFortran) ⭐ 160 | 🐛 3 | 🌐 Fortran | 📅 2026-11-12 - Pure Fortran (2003+) library to write and read data conforming the VTK standard.
 * [DISLIN](https://www.mps.mpg.de/dislin/) - a high-level graphing and user-interface library.
 * [f90gl](https://math.nist.gov/f90gl/) - public domain implementation of the official NIST Fortran 90 bindings for OpenGL.
 * [F03GL](http://www-stone.ch.cam.ac.uk/pub/f03gl/index.xhtml) - a Fortran 2003 interface to the OpenGL library, along with the GLU and GLUT toolkits.
@@ -45,7 +45,7 @@ A curated list of awesome Fortran frameworks, libraries and software. Inspired b
 
 *Libraries for calculating and other mathematical operations.*
 
-* [OpenBLAS](https://github.com/xianyi/OpenBLAS) ⭐ 7,680 | 🐛 159 | 🌐 C | 📅 2026-11-11 - one of the fastest open source BLAS libraries available.  Almost as fast as Intel MKL.
+* [OpenBLAS](https://github.com/xianyi/OpenBLAS) ⭐ 7,685 | 🐛 152 | 🌐 C | 📅 2026-11-12 - one of the fastest open source BLAS libraries available.  Almost as fast as Intel MKL.
 * [netCDF](https://github.com/Unidata/netcdf-fortran) ⭐ 271 | 🐛 124 | 🌐 Fortran | 📅 2026-09-21 - a set of software libraries and self-describing, machine-independent data formats that support the creation, access, and sharing of array-oriented scientific data.
 * [BLAS](http://www.netlib.org/blas/) - application programming interface standard for publishing libraries to perform basic linear algebra operations such as vector and matrix multiplication.
 * [CERNLIB](http://cernlib.web.cern.ch/cernlib/) - The CERN Program Library is a large collection of general purpose libraries and modules maintained and offered in both source and object code form on the CERN central computers
@@ -88,26 +88,26 @@ A curated list of awesome Fortran frameworks, libraries and software. Inspired b
 
 *Libraries for encoding and decoding data with Fortran language.*
 
-* [BeFoR64](https://github.com/szaghi/BeFoR64) ⭐ 22 | 🐛 1 | 🌐 Fortran | 📅 2026-10-29 - Base64 encoding/decoding library for FoRtran poor men. A KISS library for base64 encoding/decoding for modern (2003+) Fortran projects.
+* [BeFoR64](https://github.com/szaghi/BeFoR64) ⭐ 22 | 🐛 1 | 🌐 Fortran | 📅 2026-11-12 - Base64 encoding/decoding library for FoRtran poor men. A KISS library for base64 encoding/decoding for modern (2003+) Fortran projects.
 
 ## Portability enabling
 
 *Libraries for enabling codes portability.*
 
-* [PENF](https://github.com/szaghi/PENF) ⭐ 43 | 🐛 0 | 🌐 Fortran | 📅 2026-10-29 - Pure Fortran (2003+) library for ensuring codes portability.
+* [PENF](https://github.com/szaghi/PENF) ⭐ 43 | 🐛 0 | 🌐 Fortran | 📅 2026-11-12 - Pure Fortran (2003+) library for ensuring codes portability.
 
 ## Command-Line parsing
 
 *Libraries for parsing command-line and building user interfaces.*
 
-* [FLAP](https://github.com/szaghi/FLAP) ⭐ 175 | 🐛 2 | 🌐 Fortran | 📅 2026-11-10 - Fortran command Line Arguments Parser for poor men. A KISS library for building easily nice Command Line Interfaces (CLI) for modern (2003+) Fortran projects.
+* [FLAP](https://github.com/szaghi/FLAP) ⭐ 175 | 🐛 2 | 🌐 Fortran | 📅 2026-11-12 - Fortran command Line Arguments Parser for poor men. A KISS library for building easily nice Command Line Interfaces (CLI) for modern (2003+) Fortran projects.
 * [options.f90](https://github.com/cngilbreth/optionsf90) ⭐ 12 | 🐛 2 | 🌐 FORTRAN | 📅 2015-03-22 - Options & input processing for modern Fortran.
 
 ## Compiling and building
 
 *Libraries for compiling and building Fortran projects.*
 
-* [FoBiS](https://github.com/szaghi/FoBiS) ⭐ 144 | 🐛 2 | 🌐 Python | 📅 2026-11-11 - Fortran Building System for poor men. A KISS tool for automatic building modern Fortran projects.
+* [FoBiS](https://github.com/szaghi/FoBiS) ⭐ 144 | 🐛 2 | 🌐 Python | 📅 2026-11-12 - Fortran Building System for poor men. A KISS tool for automatic building modern Fortran projects.
 
 ## Preprocessor
 
@@ -132,7 +132,7 @@ A curated list of awesome Fortran frameworks, libraries and software. Inspired b
 
 *Libraries for CFD computations*
 
-* [MFC](https://github.com/MFlowCode/MFC) ⭐ 440 | 🐛 167 | 🌐 Fortran | 📅 2026-11-11 - Exascale multiphase compressible flow solver with GPU acceleration via OpenACC. 2025 Gordon Bell Prize Finalist.
+* [MFC](https://github.com/MFlowCode/MFC) ⭐ 441 | 🐛 170 | 🌐 Fortran | 📅 2026-11-12 - Exascale multiphase compressible flow solver with GPU acceleration via OpenACC. 2025 Gordon Bell Prize Finalist.
 * [OFF](https://github.com/szaghi/OFF/tree/testing) ⭐ 150 | 🐛 5 | 🌐 Fortran | 📅 2019-11-08 - Open source Finite volume Fluid dynamics code.
 
 ## Docker
@@ -159,7 +159,7 @@ Various resources, such as books, websites and articles, for improving your Fort
 
 # Other Awesome Lists
 
-Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,782 | 🐛 65 | 🌐 Ruby | 📅 2024-06-02 list.
+Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,784 | 🐛 65 | 🌐 Ruby | 📅 2024-06-02 list.
 
 # Contributing
 
@@ -167,4 +167,4 @@ Your contributions are always welcome! Please submit a pull request or create an
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
