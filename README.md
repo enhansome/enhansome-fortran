@@ -45,7 +45,7 @@ A curated list of awesome Fortran frameworks, libraries and software. Inspired b
 
 *Libraries for calculating and other mathematical operations.*
 
-* [OpenBLAS](https://github.com/xianyi/OpenBLAS) ⭐ 7,687 | 🐛 145 | 🌐 C | 📅 2026-11-13 - one of the fastest open source BLAS libraries available.  Almost as fast as Intel MKL.
+* [OpenBLAS](https://github.com/xianyi/OpenBLAS) ⭐ 7,689 | 🐛 146 | 🌐 C | 📅 2026-11-14 - one of the fastest open source BLAS libraries available.  Almost as fast as Intel MKL.
 * [netCDF](https://github.com/Unidata/netcdf-fortran) ⭐ 271 | 🐛 124 | 🌐 Fortran | 📅 2026-09-21 - a set of software libraries and self-describing, machine-independent data formats that support the creation, access, and sharing of array-oriented scientific data.
 * [BLAS](http://www.netlib.org/blas/) - application programming interface standard for publishing libraries to perform basic linear algebra operations such as vector and matrix multiplication.
 * [CERNLIB](http://cernlib.web.cern.ch/cernlib/) - The CERN Program Library is a large collection of general purpose libraries and modules maintained and offered in both source and object code form on the CERN central computers
@@ -59,7 +59,7 @@ A curated list of awesome Fortran frameworks, libraries and software. Inspired b
 
 *Libraries for JSON data manipulating with Fortran language.*
 
-* [json-fortran](https://github.com/jacobwilliams/json-fortran) ⭐ 384 | 🐛 26 | 🌐 Fortran | 📅 2026-11-03 - A Fortran 2008 JSON API.
+* [json-fortran](https://github.com/jacobwilliams/json-fortran) ⭐ 384 | 🐛 27 | 🌐 Fortran | 📅 2026-11-03 - A Fortran 2008 JSON API.
 * [FSON](https://github.com/josephalevin/fson) ⭐ 61 | 🐛 11 | 🌐 Fortran | 📅 2023-01-23 - Fortran 95 JSON Parser.
 
 ## XML Manipulation
@@ -88,13 +88,13 @@ A curated list of awesome Fortran frameworks, libraries and software. Inspired b
 
 *Libraries for encoding and decoding data with Fortran language.*
 
-* [BeFoR64](https://github.com/szaghi/BeFoR64) ⭐ 22 | 🐛 1 | 🌐 Fortran | 📅 2026-11-12 - Base64 encoding/decoding library for FoRtran poor men. A KISS library for base64 encoding/decoding for modern (2003+) Fortran projects.
+* [BeFoR64](https://github.com/szaghi/BeFoR64) ⭐ 22 | 🐛 1 | 🌐 Fortran | 📅 2026-11-14 - Base64 encoding/decoding library for FoRtran poor men. A KISS library for base64 encoding/decoding for modern (2003+) Fortran projects.
 
 ## Portability enabling
 
 *Libraries for enabling codes portability.*
 
-* [PENF](https://github.com/szaghi/PENF) ⭐ 43 | 🐛 0 | 🌐 Fortran | 📅 2026-11-12 - Pure Fortran (2003+) library for ensuring codes portability.
+* [PENF](https://github.com/szaghi/PENF) ⭐ 43 | 🐛 0 | 🌐 Fortran | 📅 2026-11-13 - Pure Fortran (2003+) library for ensuring codes portability.
 
 ## Command-Line parsing
 
@@ -107,7 +107,7 @@ A curated list of awesome Fortran frameworks, libraries and software. Inspired b
 
 *Libraries for compiling and building Fortran projects.*
 
-* [FoBiS](https://github.com/szaghi/FoBiS) ⭐ 144 | 🐛 3 | 🌐 Python | 📅 2026-11-13 - Fortran Building System for poor men. A KISS tool for automatic building modern Fortran projects.
+* [FoBiS](https://github.com/szaghi/FoBiS) ⭐ 144 | 🐛 2 | 🌐 Python | 📅 2026-11-13 - Fortran Building System for poor men. A KISS tool for automatic building modern Fortran projects.
 
 ## Preprocessor
 
@@ -120,7 +120,7 @@ A curated list of awesome Fortran frameworks, libraries and software. Inspired b
 
 *Tools for formatting and style-checking Fortran source code.*
 
-* [ffmt](https://github.com/sbryngelson/ffmt) ⭐ 8 | 🐛 1 | 🌐 Rust | 📅 2026-10-17 - Fast, configurable Fortran formatter with support for Fypp, Doxygen, and OpenACC/OpenMP directives. Written in Rust, installable via pip.
+* [ffmt](https://github.com/sbryngelson/ffmt) ⭐ 8 | 🐛 0 | 🌐 Rust | 📅 2026-11-14 - Fast, configurable Fortran formatter with support for Fypp, Doxygen, and OpenACC/OpenMP directives. Written in Rust, installable via pip.
 
 ## Automatic documentation
 
@@ -132,7 +132,7 @@ A curated list of awesome Fortran frameworks, libraries and software. Inspired b
 
 *Libraries for CFD computations*
 
-* [MFC](https://github.com/MFlowCode/MFC) ⭐ 441 | 🐛 196 | 🌐 Fortran | 📅 2026-11-13 - Exascale multiphase compressible flow solver with GPU acceleration via OpenACC. 2025 Gordon Bell Prize Finalist.
+* [MFC](https://github.com/MFlowCode/MFC) ⭐ 441 | 🐛 193 | 🌐 Fortran | 📅 2026-11-14 - Exascale multiphase compressible flow solver with GPU acceleration via OpenACC. 2025 Gordon Bell Prize Finalist.
 * [OFF](https://github.com/szaghi/OFF/tree/testing) ⭐ 150 | 🐛 5 | 🌐 Fortran | 📅 2019-11-08 - Open source Finite volume Fluid dynamics code.
 
 ## Docker
@@ -159,7 +159,7 @@ Various resources, such as books, websites and articles, for improving your Fort
 
 # Other Awesome Lists
 
-Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,786 | 🐛 66 | 🌐 Ruby | 📅 2024-06-02 list.
+Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,787 | 🐛 66 | 🌐 Ruby | 📅 2024-06-02 list.
 
 # Contributing
 
@@ -167,4 +167,4 @@ Your contributions are always welcome! Please submit a pull request or create an
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
