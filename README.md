@@ -34,7 +34,7 @@ A curated list of awesome Fortran frameworks, libraries and software. Inspired b
 
 *Libraries for graphing, graphics, and GUIs*
 
-* [gtk-fortran](https://github.com/vmagnin/gtk-fortran/wiki) ⭐ 289 | 🐛 11 | 🌐 Fortran | 📅 2026-11-07 - a cross-platform library to build Graphical User Interfaces (GUI) using [GTK+](https://www.gtk.org/).  Very useful when combined with the [Glade](https://glade.gnome.org/) RAD tool.
+* [gtk-fortran](https://github.com/vmagnin/gtk-fortran/wiki) ⭐ 289 | 🐛 11 | 🌐 Fortran | 📅 2026-11-20 - a cross-platform library to build Graphical User Interfaces (GUI) using [GTK+](https://www.gtk.org/).  Very useful when combined with the [Glade](https://glade.gnome.org/) RAD tool.
 * [VTKFortran](https://github.com/szaghi/VTKFortran) ⭐ 160 | 🐛 3 | 🌐 Fortran | 📅 2026-11-16 - Pure Fortran (2003+) library to write and read data conforming the VTK standard.
 * [DISLIN](https://www.mps.mpg.de/dislin/) - a high-level graphing and user-interface library.
 * [f90gl](https://math.nist.gov/f90gl/) - public domain implementation of the official NIST Fortran 90 bindings for OpenGL.
@@ -107,7 +107,7 @@ A curated list of awesome Fortran frameworks, libraries and software. Inspired b
 
 *Libraries for compiling and building Fortran projects.*
 
-* [FoBiS](https://github.com/szaghi/FoBiS) ⭐ 143 | 🐛 10 | 🌐 Python | 📅 2026-11-17 - Fortran Building System for poor men. A KISS tool for automatic building modern Fortran projects.
+* [FoBiS](https://github.com/szaghi/FoBiS) ⭐ 143 | 🐛 10 | 🌐 Python | 📅 2026-11-20 - Fortran Building System for poor men. A KISS tool for automatic building modern Fortran projects.
 
 ## Preprocessor
 
@@ -132,7 +132,7 @@ A curated list of awesome Fortran frameworks, libraries and software. Inspired b
 
 *Libraries for CFD computations*
 
-* [MFC](https://github.com/MFlowCode/MFC) ⭐ 441 | 🐛 210 | 🌐 Fortran | 📅 2026-11-19 - Exascale multiphase compressible flow solver with GPU acceleration via OpenACC. 2025 Gordon Bell Prize Finalist.
+* [MFC](https://github.com/MFlowCode/MFC) ⭐ 441 | 🐛 202 | 🌐 Fortran | 📅 2026-11-20 - Exascale multiphase compressible flow solver with GPU acceleration via OpenACC. 2025 Gordon Bell Prize Finalist.
 * [OFF](https://github.com/szaghi/OFF/tree/testing) ⭐ 150 | 🐛 5 | 🌐 Fortran | 📅 2019-11-08 - Open source Finite volume Fluid dynamics code.
 
 ## Docker
@@ -159,7 +159,7 @@ Various resources, such as books, websites and articles, for improving your Fort
 
 # Other Awesome Lists
 
-Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,799 | 🐛 67 | 🌐 Ruby | 📅 2024-06-02 list.
+Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,803 | 🐛 67 | 🌐 Ruby | 📅 2024-06-02 list.
 
 # Contributing
 
@@ -167,4 +167,4 @@ Your contributions are always welcome! Please submit a pull request or create an
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._

@@ -15,7 +15,7 @@
             "id": 1236609,
             "language": "Fortran",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-07T16:02:56Z",
+            "last_commit": "2026-11-20T20:18:01Z",
             "open_issues": 11,
             "owner": "vmagnin",
             "repo": "gtk-fortran",
@@ -373,7 +373,7 @@
             "id": 17250474,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-11-17T07:53:56Z",
+            "last_commit": "2026-11-20T10:05:17Z",
             "open_issues": 10,
             "owner": "szaghi",
             "repo": "FoBiS",
@@ -499,8 +499,8 @@
             "id": 198475661,
             "language": "Fortran",
             "license": "MIT",
-            "last_commit": "2026-11-19T20:32:35Z",
-            "open_issues": 210,
+            "last_commit": "2026-11-20T21:01:57Z",
+            "open_issues": 202,
             "owner": "MFlowCode",
             "repo": "MFC",
             "stars": 441,
@@ -565,7 +565,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T21:54:17.365Z",
+    "last_updated": "2026-11-20T21:36:38.684Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of Fortran libs",
