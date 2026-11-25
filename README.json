@@ -15,7 +15,7 @@
             "id": 1236609,
             "language": "Fortran",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-24T10:07:03Z",
+            "last_commit": "2026-11-25T09:20:36Z",
             "open_issues": 10,
             "owner": "vmagnin",
             "repo": "gtk-fortran",
@@ -78,11 +78,11 @@
             "id": 1286805,
             "language": "C",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-23T22:29:15Z",
-            "open_issues": 138,
+            "last_commit": "2026-11-25T20:37:54Z",
+            "open_issues": 136,
             "owner": "OpenMathLib",
             "repo": "OpenBLAS",
-            "stars": 7699,
+            "stars": 7700,
             "topics": [
               "blas",
               "lapack",
@@ -107,7 +107,7 @@
             "open_issues": 123,
             "owner": "Unidata",
             "repo": "netcdf-fortran",
-            "stars": 271,
+            "stars": 272,
             "topics": [
               "dataset",
               "hacktoberfest",
@@ -499,11 +499,11 @@
             "id": 198475661,
             "language": "Fortran",
             "license": "MIT",
-            "last_commit": "2026-11-24T23:14:59Z",
-            "open_issues": 215,
+            "last_commit": "2026-11-25T21:00:25Z",
+            "open_issues": 219,
             "owner": "MFlowCode",
             "repo": "MFC",
-            "stars": 442,
+            "stars": 444,
             "topics": [
               "amd-gpu",
               "cfd",
@@ -565,7 +565,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T23:18:04.389Z",
+    "last_updated": "2026-11-25T22:51:06.461Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of Fortran libs",
