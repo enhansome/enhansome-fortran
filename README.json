@@ -78,11 +78,11 @@
             "id": 1286805,
             "language": "C",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-25T23:34:43Z",
-            "open_issues": 137,
+            "last_commit": "2026-11-27T14:00:08Z",
+            "open_issues": 136,
             "owner": "OpenMathLib",
             "repo": "OpenBLAS",
-            "stars": 7703,
+            "stars": 7701,
             "topics": [
               "blas",
               "lapack",
@@ -499,11 +499,11 @@
             "id": 198475661,
             "language": "Fortran",
             "license": "MIT",
-            "last_commit": "2026-11-26T22:30:14Z",
-            "open_issues": 191,
+            "last_commit": "2026-11-27T19:07:12Z",
+            "open_issues": 160,
             "owner": "MFlowCode",
             "repo": "MFC",
-            "stars": 444,
+            "stars": 445,
             "topics": [
               "amd-gpu",
               "cfd",
@@ -565,7 +565,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T22:40:30.675Z",
+    "last_updated": "2026-11-27T22:24:40.020Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of Fortran libs",
